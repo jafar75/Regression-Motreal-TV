@@ -35,3 +35,8 @@ Metrics were MAE and R-Squared.
 |---------| ------------- | ------------- |
 |R-Squared| 0.91          | 0.88          |
 |MAE      | 0.96          | 1.05          |
+
+## Further Plans
+**1-Scikit-learn pipelining**: by using Scikit-learn pipelining, data cleanning can be done better and code readability enhances.
+
+**2-Apache Spark Distributed Tools**: by using apache spark speed of the training phase may be increased by help of distributed processing.
