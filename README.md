@@ -1,7 +1,5 @@
-# YapAiTek-assignment
-It is a repo for evaluation assignment sent by YapAiTek.
-
-The task was about creating a prediction model based on "Montreal Local TV Channels" dataset to predict "Market Share".
+# Montreal Local TV Channels
+The implementation is about predicting market-share about some some episodes in Montreal Local TV Channels between 2016-2019
 
 ## Dataset
 These data belong to the Montreal Local TV channels, which contains several features including: Name of episode, data, time, etc.
